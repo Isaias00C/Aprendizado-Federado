@@ -1,0 +1,13 @@
+# ==================================
+# TFF + TF (Versões que Instalam)
+# ==================================
+tensorflow-federated==0.87.0
+tensorflow==2.14.1
+
+# ==================================
+# DEPENDÊNCIAS PARA NOTEBOOKS E CORREÇÃO CRÍTICA
+# ==================================
+# Retornamos o ipykernel para a série 5.x (mais antigo e compatível com dependências de 2023)
+ipykernel==7.0.1        
+jupyterlab==3.6.6       
+typing-extensions==4.5.0
